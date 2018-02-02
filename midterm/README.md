@@ -21,7 +21,7 @@ Your final app should be deployed to Github pages for presentation.
 
 ## Initial Requirements
 
-Review your notes on the research/discovery and strategy phases of the UX process. **By Monday morning**, you should have completed
+Review your notes on the research/discovery and strategy phases of the UX process. **By Monday morning**, you should have completed the following:
 
 ### Competition Analysis
 
