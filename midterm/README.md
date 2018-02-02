@@ -49,10 +49,15 @@ Remember to keep your strategy brief, two pages maximum. This should include
 * **UI design criteria**. What are your interface design goals?
 * **Success metrics**. How would you measure whether your product is successful?
 
-### App and Component Design
+## Ongoing Technical Design Requirements
 
-1. Create and maintain a high-level diagram of the routes and subroutes of your application
+### App Routes and SubRoutes
+
+Create and maintain a high-level diagram of the routes and subroutes of your application. You should have an initial draft by end-of-day Monday
+
+### Component Design
+
+These steps can occur JIT (just-in-time) for the different vertical slices:
+
 1. Decompose your designs into distinct components
 1. Create tree-diagrams of your components and show the flow of data from firebase, the url, and parent-to-child data passing (including callback functions)
-
-Steps 2 and 3 can occur JIT (just-in-time) for the different vertical slices.
