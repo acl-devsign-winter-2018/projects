@@ -7,16 +7,19 @@ Alchemy Code Lab, Devsign Career Track, Winter 2018
 By 1 pm next Friday, February 9, your team will present a completed app demonstrating the techniques we've covered thus far in class.
 
 * Make it responsive, using a combination of CSS Grid and Flexbox.
-* Follow the Webpack component and router architecture we've used on other labs.
-* Allow users to sign up and sign in.
-* Store user data using Firebase.
-* Protect parts of the app from unauthorized access.
+* Follow component and router architecture we've used on other labs.
+* Use Webpack for development and production builds
+* Allow users to sign up and sign in, using Firebase authentication system.
+* Store user data using:
+  * Realtime Firebase Database
+  * Firebase Cloud Storage for files and images
+* Protect parts of the app from unauthorized access and generally enforce "doing the right thing"
 * Implement responsive image loading strategies.
 * Apply the principles of Chapter 3 of *Don't Make Me Think!* to make body copy scan-friendly.
 * **Test** users along the way to make sure you're on the right track.
 * Be mindful of places where subtle CSS animations could aid usability.
 
-Your final app should be deployed to Github pages for presentation.
+Your final app should be deployed to Firebase _and/or_ Github pages for presentation.
 
 ---
 
@@ -37,15 +40,6 @@ Describe the circumstances of the use of your app. For each persona, include
 * Typical browsing behaviors
 * Goals while using your site
 
-Think carefully about user **stories** here: 
-
-* How would each user find your app in the first place? 
-* What would they have in mind as they arrive? 
-* What specific steps would they take in (hopefully) arriving at their goal? 
-* What discoveries might they make along the way?
-
-Your answers to these questions will help determine how you structure your content and data.
-
 ### UX Strategy Document
 
 Remember to keep your strategy brief, two pages maximum. This should include
@@ -54,3 +48,11 @@ Remember to keep your strategy brief, two pages maximum. This should include
 * **Circumstances of use**, which is a brief summary of work done in your personas. Who uses this app, and under what conditions?
 * **UI design criteria**. What are your interface design goals?
 * **Success metrics**. How would you measure whether your product is successful?
+
+### App and Component Design
+
+1. Create and maintain a high-level diagram of the routes and subroutes of your application
+1. Decompose your designs into distinct components
+1. Create tree-diagrams of your components and show the flow of data from firebase, the url, and parent-to-child data passing (including callback functions)
+
+Steps 2 and 3 can occur JIT (just-in-time) for the different vertical slices.
