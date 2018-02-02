@@ -13,6 +13,9 @@ By 1 pm next Friday, February 9, your team will complete an app demonstrating th
 * Protect parts of the app from unauthorized access.
 * Implement responsive image loading strategies.
 * Apply the principles of Chapter 3 of *Don't Make Me Think!* to make body copy scan-friendly
+* **Test** users along the way to make sure you're on the right track.
+
+Your final app should be deployed to Github pages for presentation.
 
 ---
 
@@ -39,5 +42,5 @@ Remember to keep your strategy brief, two pages maximum. This should include
 
 * **A vision statement**, stating the goals of this project and the benefits users can expect from your product
 * **Circumstances of use**, which is a brief summary of work done in your personas. Who uses this app, and under what conditions?
-* **UI design criteria**.
+* **UI design criteria**. What are your interface design goals?
 * **Success metrics**. How would you measure whether your product is successful?
