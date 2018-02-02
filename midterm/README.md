@@ -4,7 +4,7 @@ Alchemy Code Lab, Devsign Career Track, Winter 2018
 
 ## Project Description
 
-By 1 pm next Friday, February 9, your team will complete an app demonstrating the techniques we've covered thus far in class.
+By 1 pm next Friday, February 9, your team will present a completed app demonstrating the techniques we've covered thus far in class.
 
 * Make it responsive, using a combination of CSS Grid and Flexbox.
 * Follow the Webpack component and router architecture we've used on other labs.
