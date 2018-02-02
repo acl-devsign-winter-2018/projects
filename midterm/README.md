@@ -37,7 +37,14 @@ Describe the circumstances of the use of your app. For each persona, include
 * Typical browsing behaviors
 * Goals while using your site
 
-Think carefully about user **stories** here. How would each user find your app in the first place? What would they have in mind as they arrive? What specific steps would they take in (hopefully) arriving at their goal? What discoveries might they make along the way?
+Think carefully about user **stories** here: 
+
+* How would each user find your app in the first place? 
+* What would they have in mind as they arrive? 
+* What specific steps would they take in (hopefully) arriving at their goal? 
+* What discoveries might they make along the way?
+
+Your answers to these questions will help determine how you structure your content and data.
 
 ### UX Strategy Document
 
