@@ -14,6 +14,7 @@ By 1 pm next Friday, February 9, your team will present a completed app demonstr
 * Implement responsive image loading strategies.
 * Apply the principles of Chapter 3 of *Don't Make Me Think!* to make body copy scan-friendly.
 * **Test** users along the way to make sure you're on the right track.
+* Be mindful of places where subtle CSS animations could aid usability.
 
 Your final app should be deployed to Github pages for presentation.
 
