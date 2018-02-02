@@ -37,6 +37,8 @@ Describe the circumstances of the use of your app. For each persona, include
 * Typical browsing behaviors
 * Goals while using your site
 
+Think carefully about user **stories** here. How would each user find your app in the first place? What would they have in mind as they arrive? What specific steps would they take in (hopefully) arriving at their goal? What discoveries might they make along the way?
+
 ### UX Strategy Document
 
 Remember to keep your strategy brief, two pages maximum. This should include
