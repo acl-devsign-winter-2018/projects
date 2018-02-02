@@ -51,7 +51,7 @@ Remember to keep your strategy brief, two pages maximum. This should include
 
 ## Ongoing Technical Design Requirements
 
-### App Routes and SubRoutes
+### App Routes and Subroutes
 
 Create and maintain a high-level diagram of the routes and subroutes of your application. You should have an initial draft by end-of-day Monday
 
