@@ -49,6 +49,15 @@ Remember to keep your strategy brief, two pages maximum. This should include
 * **UI design criteria**. What are your interface design goals?
 * **Success metrics**. How would you measure whether your product is successful?
 
+Think carefully about user **stories** here: 
+
+* How would each user find your app in the first place? 
+* What would they have in mind as they arrive? 
+* What specific steps would they take in (hopefully) arriving at their goal? 
+* What discoveries might they make along the way?
+
+Your answers to these questions will help determine how you structure your content and data.
+
 ## Ongoing Technical Design Requirements
 
 ### App Routes and Subroutes
