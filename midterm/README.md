@@ -40,15 +40,6 @@ Describe the circumstances of the use of your app. For each persona, include
 * Typical browsing behaviors
 * Goals while using your site
 
-### UX Strategy Document
-
-Remember to keep your strategy brief, two pages maximum. This should include
-
-* **A vision statement**, stating the goals of this project and the benefits users can expect from your product
-* **Circumstances of use**, which is a brief summary of work done in your personas. Who uses this app, and under what conditions?
-* **UI design criteria**. What are your interface design goals?
-* **Success metrics**. How would you measure whether your product is successful?
-
 Think carefully about user **stories** here: 
 
 * How would each user find your app in the first place? 
@@ -57,6 +48,15 @@ Think carefully about user **stories** here:
 * What discoveries might they make along the way?
 
 Your answers to these questions will help determine how you structure your content and data.
+
+### UX Strategy Document
+
+Remember to keep your strategy brief, two pages maximum. This should include
+
+* **A vision statement**, stating the goals of this project and the benefits users can expect from your product
+* **Circumstances of use**, which is a brief summary of work done in your personas. Who uses this app, and under what conditions?
+* **UI design criteria**. What are your interface design goals?
+* **Success metrics**. How would you measure whether your product is successful?
 
 ## Ongoing Technical Design Requirements
 
