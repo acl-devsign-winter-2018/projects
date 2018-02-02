@@ -7,6 +7,7 @@ Alchemy Code Lab, Devsign Career Track, Winter 2018
 By 1 pm next Friday, February 9, your team will present a completed app demonstrating the techniques we've covered thus far in class.
 
 * Make it responsive, using a combination of CSS Grid and Flexbox.
+* Use semantic, accessible markup.
 * Follow component and router architecture we've used on other labs.
 * Use Webpack for development and production builds
 * Allow users to sign up and sign in, using Firebase authentication system.
