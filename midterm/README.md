@@ -12,7 +12,7 @@ By 1 pm next Friday, February 9, your team will complete an app demonstrating th
 * Store user data using Firebase.
 * Protect parts of the app from unauthorized access.
 * Implement responsive image loading strategies.
-* Apply the principles of Chapter 3 of *Don't Make Me Think!* to make body copy scan-friendly
+* Apply the principles of Chapter 3 of *Don't Make Me Think!* to make body copy scan-friendly.
 * **Test** users along the way to make sure you're on the right track.
 
 Your final app should be deployed to Github pages for presentation.
